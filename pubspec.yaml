@@ -13,11 +13,7 @@ dependencies:
 
 
   cupertino_icons: ^1.0.2
-  flutter_bloc: any
   http: any
-  equatable: any
-  bloc_concurrency: any
-  stream_transform: any
 
 dev_dependencies:
   flutter_test:
